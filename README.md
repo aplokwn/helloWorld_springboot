@@ -2,10 +2,9 @@
 
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/aplokwn/helloWorld_springboot">
 
   </a>
 
@@ -14,7 +13,7 @@
   <p align="center">
     Spring Boot Hello World & RESTful Sample for in-class tutorial blog
     <br />
-    <a href="apsslok.wordpress.com/2022/02/22/introduction-to-spring-boot/5/"><strong>Explore the blog content »</strong></a>
+    <a href="https://apsslok.wordpress.com/2022/02/22/introduction-to-spring-boot/5/"><strong>Explore the blog content »</strong></a>
     <br />
     <br />
     <a href="apsslok.wordpress.com/2022/02/22/introduction-to-spring-boot/5/">View Demo</a>
